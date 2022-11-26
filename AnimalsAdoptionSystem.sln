@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalsAdoptionSystem", "AnimalsAdoptionSystem\AnimalsAdoptionSystem.csproj", "{969F0A0F-5B3F-49AD-BF3E-07932BE1E93E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{969F0A0F-5B3F-49AD-BF3E-07932BE1E93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969F0A0F-5B3F-49AD-BF3E-07932BE1E93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969F0A0F-5B3F-49AD-BF3E-07932BE1E93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969F0A0F-5B3F-49AD-BF3E-07932BE1E93E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {734A20F0-137C-403A-97DC-E0F655880D99}
+	EndGlobalSection
+EndGlobal
