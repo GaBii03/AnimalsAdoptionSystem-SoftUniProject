@@ -5,6 +5,10 @@ VisualStudioVersion = 25.0.1704.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalsAdoptionSystem", "AnimalsAdoptionSystem\AnimalsAdoptionSystem.csproj", "{969F0A0F-5B3F-49AD-BF3E-07932BE1E93E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalsAdoptionSystem.Core", "AnimalsAdoptionSystem.Core\AnimalsAdoptionSystem.Core.csproj", "{F744DA80-2FF3-4146-98E5-27A73ED51B87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalsAdoptionSystem.Infrastructure", "AnimalsAdoptionSystem.Infrastructure\AnimalsAdoptionSystem.Infrastructure.csproj", "{28B0705E-1290-4A82-9DD6-564C36751645}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{969F0A0F-5B3F-49AD-BF3E-07932BE1E93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{969F0A0F-5B3F-49AD-BF3E-07932BE1E93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{969F0A0F-5B3F-49AD-BF3E-07932BE1E93E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F744DA80-2FF3-4146-98E5-27A73ED51B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F744DA80-2FF3-4146-98E5-27A73ED51B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F744DA80-2FF3-4146-98E5-27A73ED51B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F744DA80-2FF3-4146-98E5-27A73ED51B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B0705E-1290-4A82-9DD6-564C36751645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B0705E-1290-4A82-9DD6-564C36751645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B0705E-1290-4A82-9DD6-564C36751645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B0705E-1290-4A82-9DD6-564C36751645}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
