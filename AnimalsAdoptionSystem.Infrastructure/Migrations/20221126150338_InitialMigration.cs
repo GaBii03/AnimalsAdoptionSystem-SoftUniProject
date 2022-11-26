@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace AnimalsAdoptionSystem.Infrastructure.Data.Migrations
+namespace AnimalsAdoptionSystem.Infrastructure.Migrations
 {
     public partial class InitialMigration : Migration
     {

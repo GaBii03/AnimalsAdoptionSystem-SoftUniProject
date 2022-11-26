@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace AnimalsAdoptionSystem.Infrastructure.Data.Migrations
+namespace AnimalsAdoptionSystem.Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     [Migration("20221126150338_InitialMigration")]
