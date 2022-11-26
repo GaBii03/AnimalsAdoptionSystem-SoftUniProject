@@ -6,4 +6,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AnimalsAdoptionSystem.Infrastructure\AnimalsAdoptionSystem.Infrastructure.csproj" />
+  </ItemGroup>
 </Project>
